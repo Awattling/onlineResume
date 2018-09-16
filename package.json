@@ -1,0 +1,23 @@
+{
+  "name": "online_resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awattling/onlineResume.git"
+  },
+  "author": "Austin Wattling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awattling/onlineResume/issues"
+  },
+  "homepage": "https://github.com/Awattling/onlineResume#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "react": "^16.5.1"
+  }
+}
