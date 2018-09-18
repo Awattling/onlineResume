@@ -1,0 +1,28 @@
+.center {
+    text-align: center;
+}
+.row {
+    color: darkorange;
+    background-color: grey;
+}
+.imgHelper{
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+.spinGear{
+    height: 2em;
+    -webkit-animation: rotation 4s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}
+.gitPic{
+    height: 2em;
+}
