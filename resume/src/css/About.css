@@ -1,0 +1,51 @@
+.aboutMain{
+    composes: col-12 from global;
+    background-color: grey;
+    z-index: -1;
+}
+
+.top{
+    composes: row from global;
+}
+.me{
+    composes: col-4 from global;
+    font-size: 4em;
+    color: white;
+    text-align: right;
+}
+.change{
+    composes: col-8 from global;
+    font-size: 4em;
+    color: red;
+    text-align: left;
+}
+
+.text{
+    composes: col-8 offset-2 from global;
+    font-size: 2em;
+}
+
+.textLeft{
+    composes: col-6 offset-2 from global;
+    font-size: 1.5em;
+}
+.videoGames{
+    composes: row from global;
+}
+.picRight{
+    composes: col-2 from global;
+}
+.line{
+    composes: col-12 from global;
+    height: 1px;
+    border: solid darkorange 1px;
+    margin: 1em;
+}
+.stick{
+    background-color: grey;
+    composes: top;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 4em;
+    z-index: 7;
+}

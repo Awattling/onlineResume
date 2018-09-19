@@ -21,10 +21,6 @@
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
 }
-.row {
-    composes: row from global;
-    background-color: black;
-}
 .center{
     text-align: center;
 }
@@ -42,4 +38,11 @@
 }
 h4{
     color: white;
+}
+.stick{
+    composes: row from global;
+    background-color: black;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
 }
