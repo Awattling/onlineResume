@@ -2,6 +2,7 @@
     text-align: center;
 }
 .row {
+    composes: row from global;
     color: darkorange;
     background-color: grey;
 }
@@ -14,7 +15,18 @@
     height: 2em;
     -webkit-animation: rotation 4s infinite linear;
 }
-
+.left{
+    composes: col-2 offset-2 from global;
+    composes: center;
+}
+.middle{
+    composes: col-4 from global;
+    composes: center;
+}
+.right{
+    composes: col-2 from global;
+    composes: center;
+}
 @-webkit-keyframes rotation {
     from {
         -webkit-transform: rotate(0deg);

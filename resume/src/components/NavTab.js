@@ -1,16 +1,15 @@
 import React from "react";
-import styles from '../css/navTab.css';
-import gear from '../media/orangeGear.png'
+import styles from '../css/Nav.css';
+import gear from '../media/WhiteGear.png'
 
 export class NavTab extends React.Component{
     render(){
         return(
-            <div className={styles.container}>
+            <div className={styles.gearsCon}>
                 <div>
-                    <div className={""}></div>
-                    <img className={""} src={gear} alt={""}/>
+                    <img className={styles.gears} src={gear} alt={""}/>
                 </div>
-                <h3>Text</h3>
+                <h4>{this.props.text}</h4>
             </div>
         );
     }

@@ -1,0 +1,45 @@
+.active{
+    background-color: pink;
+}
+.gears{
+    height: 2em;
+    transition: 0.70s;
+    -webkit-transition: 0.70s;
+    -moz-transition: 0.70s;
+    -ms-transition: 0.70s;
+    -o-transition: 0.70s;
+}
+.gearsCon:hover  .gears{
+    transition: 0.70s;
+    -webkit-transition: 0.70s;
+    -moz-transition: 0.70s;
+    -ms-transition: 0.70s;
+    -o-transition: 0.70s;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.row {
+    composes: row from global;
+    background-color: black;
+}
+.center{
+    text-align: center;
+}
+.width{
+    composes: col-12 from global;
+    composes: center;
+}
+.left{
+    composes: col-2 offset-1 from global;
+    composes: center;
+}
+.tab{
+    composes: col-2 from global;
+    composes: center;
+}
+h4{
+    color: white;
+}
