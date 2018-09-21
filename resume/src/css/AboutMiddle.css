@@ -1,0 +1,25 @@
+.middle{
+    composes: row from global;
+}
+.musician{
+    composes: col-2 offset-5 from global ;
+    font-size: 2em;
+    background-color: grey;
+    z-index: 5;
+    color: red;
+    text-align: left;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 2.5em;
+}
+.musicText{
+    composes: col-10 offset-1 from global;
+    margin-bottom: 4em;
+    margin-top: 2em;
+    font-size: 1.5em;
+    text-align: center;
+}
+.musicText2{
+    composes: musicText;
+    margin-top: 3em;
+}

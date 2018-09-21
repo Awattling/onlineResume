@@ -1,0 +1,45 @@
+.textLeft{
+    composes: col-6 offset-2 from global;
+    font-size: 1.5em;
+}
+.videoGames{
+    composes: row from global;
+    margin-bottom: 4em;
+    margin-top: 4em;
+    z-index: 1;
+}
+.flipFront{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    animation-name: topCard;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    animation-duration: 15s;
+}
+@keyframes topCard {
+    0% {opacity: 0}
+    40% {opacity: 0}
+    50% {opacity: 1}
+    90% {opacity: 1}
+    100% {opacity: 0}
+}
+.flipBack{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    animation-name: bottomCard;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    animation-duration: 15s;
+}
+@keyframes bottomCard {
+    0% {opacity: 1}
+    40% {opacity: 1}
+    50% {opacity: 0}
+    90% {opacity: 0}
+    100% {opacity: 1}
+}
+.picRight{
+    composes: col-3 from global;
+}
