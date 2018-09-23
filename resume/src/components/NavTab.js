@@ -6,7 +6,7 @@ export class NavTab extends React.Component{
     render(){
         return(
             <div className={styles.gearsCon}>
-                <div>
+                <div className={styles.hideSmall}>
                     <img className={styles.gears} src={gear} alt={""}/>
                 </div>
                 <h4>{this.props.text}</h4>

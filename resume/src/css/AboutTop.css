@@ -1,6 +1,7 @@
 .textLeft{
     composes: col-6 offset-2 from global;
     font-size: 1.5em;
+    text-align: center;
 }
 .videoGames{
     composes: row from global;

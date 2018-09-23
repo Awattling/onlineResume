@@ -28,14 +28,15 @@
     composes: col-12 from global;
     composes: center;
 }
-.left{
-    composes: col-2 offset-1 from global;
-    composes: center;
-}
 .tab{
-    composes: col-2 from global;
+    composes: col-12 col-md from global;
     composes: center;
 }
+.left{
+    composes: tab;
+    composes: col-md-offset-2 from global;
+}
+
 h4{
     color: white;
 }
@@ -45,4 +46,7 @@ h4{
     position: -webkit-sticky;
     position: sticky;
     top: 0;
+}
+.hideSmall{
+    composes: d-none d-md-block  from global;
 }

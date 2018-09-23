@@ -5,6 +5,7 @@
     composes: row from global;
     color: darkorange;
     background-color: grey;
+    padding-bottom: 1em;
 }
 .imgHelper{
     display: inline-block;
@@ -16,15 +17,16 @@
     -webkit-animation: rotation 4s infinite linear;
 }
 .left{
-    composes: col-2 offset-2 from global;
+    composes: col-md-2 offset-md-2 d-none d-md-block from global;
     composes: center;
 }
 .middle{
-    composes: col-4 from global;
+    composes:  col-12 col-md-4 from global;
     composes: center;
+    text-align: center;
 }
 .right{
-    composes: col-2 from global;
+    composes: col-12 col-md-2 from global;
     composes: center;
 }
 @-webkit-keyframes rotation {

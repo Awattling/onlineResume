@@ -15,13 +15,11 @@ export class About extends React.Component{
         window.addEventListener('scroll', this.handleScroll);
         this.updateWindowDimensions();
         window.addEventListener('resize', this.updateWindowDimensions);
-
     };
 
     componentWillUnmount() {
         window.removeEventListener('scroll', this.handleScroll);
         window.removeEventListener('resize', this.updateWindowDimensions);
-
     };
 
     handleScroll(event) {
@@ -29,8 +27,8 @@ export class About extends React.Component{
         console.log("window offset:" + window.pageYOffset);
         console.log("window width:" + this.state.height);
         console.log("window height:" + this.state.width);
-
     };
+
     updateWindowDimensions() {
         this.setState({ width: window.innerWidth, height: window.innerHeight });
     }
@@ -65,8 +63,11 @@ export class About extends React.Component{
                 </div>
                 <div className={styles.text}>
                     <div className={styles.finalText}>
-                        With a strong foundation and some hard work your future is without limits
+                        With a strong <font color="#ff8c00"> foundation </font> and some <font color="#ff8c00"> hard work </font> your future is <font color="#ff8c00"> without limits. </font>
                     </div>
+                </div>
+                <div className={styles.footer}>
+                    Made by A&W Productions
                 </div>
             </div>
         );

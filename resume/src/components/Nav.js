@@ -6,7 +6,7 @@ export class Nav extends React.Component{
     render(){
         return(
             <div className={styles.stick}>
-                <div className={styles.left}>
+                <div className={styles.tab}>
                     <NavLink to={'/about'} className={"nav-link"} activeClassName="active"><NavTab text={"About"} /></NavLink>
                 </div>
                 <div className={styles.tab}>
