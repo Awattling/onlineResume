@@ -6,6 +6,9 @@
     color: darkorange;
     background-color: grey;
     padding-bottom: 1em;
+    padding-top: 1em;
+    margin: 0;
+
 }
 .imgHelper{
     display: inline-block;

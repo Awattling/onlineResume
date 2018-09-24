@@ -23,3 +23,27 @@
     composes: musicText;
     margin-top: 3em;
 }
+.middleImg{
+    composes: row from global ;
+}
+.left{
+    composes: col-3 offset-1 d-none d-md-block from global;
+}
+.middleImgDiv{
+    composes: col-12 col-md-4 from global;
+    text-align: center;
+    padding-bottom: 2em;
+}
+.right{
+    composes: col-3 d-none d-md-block from global;
+}
+.fillSm{
+    max-width: 90%;
+}
+.m2Left{
+    composes: col-md-3 offset-md-3 d-none d-md-block from global;
+    padding-bottom: 3em;
+}
+.m2Right{
+    composes: col-md-3 d-none d-md-block from global;
+}

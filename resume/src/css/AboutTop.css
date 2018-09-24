@@ -1,7 +1,8 @@
 .textLeft{
-    composes: col-6 offset-2 from global;
+    composes: col-12 col-md-6 offset-md-1 from global;
     font-size: 1.5em;
     text-align: center;
+    padding: 1em;
 }
 .videoGames{
     composes: row from global;
@@ -42,5 +43,10 @@
     100% {opacity: 1}
 }
 .picRight{
-    composes: col-3 from global;
+    composes: col-3 d-none d-md-block from global;
+}
+.contain{
+    composes: container from global;
+    padding: 0;
+    margin: 0;
 }

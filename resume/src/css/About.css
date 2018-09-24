@@ -1,6 +1,6 @@
 .aboutMain{
     composes: col-12 from global;
-    background-color: grey;
+    background-color: lightslategrey;
     z-index: -1;
     padding: 0;
 }
@@ -8,29 +8,35 @@
     composes: row from global;
 }
 .stick{
-     background-color: grey;
+     background-color: slategray;
      composes: top;
-     position: -webkit-sticky;
-     position: sticky;
      text-align: center;
      padding-top: 1em;
-     top: 2.5em;
      z-index: 5;
  }
+@media screen and (min-width: 992px ){
+    .stick{
+        position: -webkit-sticky;
+        position: sticky;
+        top: 2.63em;
+    }
+}
 .change{
     composes: col-12 from global;
-    background-color: grey;
+    background-color: lightgrey;
     composes: stick;
     padding-left: 0;
     padding-right: 0;
-    padding-top: 1em;
-    padding-bottom: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
     margin: 0;
     text-align: center;
     font-size: 2em;
     color: white;
     z-index: 2;
     display: inline-block;
+    border-bottom: darkorange 3px solid;
+    border-top: darkorange 3px solid;
 }
 .text{
     composes: col-8 offset-2 from global;
