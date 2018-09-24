@@ -8,16 +8,17 @@ export class About extends React.Component{
         return(
             <div className={styles.aboutMain}>
                 <div className={styles.change}>
-                   I am a <font color="red">Video Gamer </font>
+                   I am a <font color="red">Musician </font>
+                </div>
+
+                <AboutMiddle/>
+
+                <div className={styles.change}>
+                    I am a <font color="red">Video Gamer</font>
                 </div>
 
                 <AboutTop/>
 
-                <div className={styles.change}>
-                    I am a <font color="red">Musician</font>
-                </div>
-
-                <AboutMiddle/>
 
                 <div className={styles.change}>
                     I am a <font color="red">Friend and Family Member</font>

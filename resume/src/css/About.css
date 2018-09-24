@@ -1,5 +1,7 @@
 .aboutMain{
-    composes: col-12 from global;
+    composes: col-12 col-md-10 offset-md-1 from global;
+    border-left: darkorange solid 3px;
+    border-right: darkorange solid 3px;
     background-color: lightslategrey;
     z-index: -1;
     padding: 0;
@@ -23,7 +25,8 @@
 }
 .change{
     composes: col-12 from global;
-    background-color: lightgrey;
+    background-color: black;
+    background-image: linear-gradient(black, purple);
     composes: stick;
     padding-left: 0;
     padding-right: 0;

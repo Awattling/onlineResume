@@ -8,9 +8,9 @@ export class AboutTop extends React.Component{
         return(
     <div className={styleLocal.videoGames}>
             <div className={styleLocal.textLeft}>
-                Evening games become late night games which become early morning games. In my free time I face the never ending struggle to beat the next boss,
-                build the best tower or explore the fantasy worlds. On of my favorite games is Minecraft as it leaves you in a world seemingly <font color="#ff8c00">without limits </font>
-                to create a world of your own. Here is some of the world I created.
+                In my free time I face the never ending struggle to beat the next boss,
+                build the best tower or explore the fantasy worlds. One of my favorite games is Minecraft as it leaves you in a world seemingly <font color="#ff8c00">without limits </font>
+                to create a world of your own. Here is some of the world I've created.
             </div>
             <div className={styleLocal.picRight}>
                 <div className={styleLocal.flipFront}>
