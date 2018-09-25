@@ -41,6 +41,7 @@ h4{
     color: white;
 }
 .stick{
+    z-index: 6;
     composes: row from global;
     background-color: black;
     margin: 0;

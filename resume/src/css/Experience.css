@@ -1,0 +1,114 @@
+.wrapper{
+    composes: col-12 col-md-10 offset-md-1 from global;
+    background-color: lightgrey;
+    display: flex;
+    padding-top: 3em;
+    position: relative;
+}
+.container{
+    composes: container from global;
+}
+.containerOverlay{
+    composes: container;
+    position: absolute;
+}
+.row{
+    composes: row from global;
+}
+.year{
+    composes: col-1 from global;
+    height: 10em;
+    border-top: solid 2px darkred;
+}
+.period {
+    position: absolute;
+    border-radius: 3em 1em;
+    opacity: 0.5;
+    z-index: 1;
+}
+.hover{
+    opacity: 1;
+    z-index: 2;
+}
+.band{
+    composes: col-3 offset-2 from global;
+    composes: period;
+    height: 53em;
+    background-color: red;
+    color: black;
+}
+.bandHover{
+    composes: band hover;
+}
+.ticketmaster{
+    composes: col-3 offset-4 from global;
+    composes: period;
+    height: 22.5em;
+    background-color: rgba(1,156,222, 1);
+}
+.ticketmasterHover{
+    composes: ticketmaster hover;
+}
+.cateringA{
+    composes: col-3 offset-8 from global;
+    composes: period;
+    height: 3em;
+    line-height: 3em;
+    top: 10em;
+    background-color: brown
+}
+.cateringAHover{
+    composes: cateringA hover;
+}
+.cateringB{
+    composes: cateringA;
+    top: 20em;
+}
+.cateringBHover{
+    composes: cateringB hover;
+}
+
+.xa{
+    composes: col-3 offset-6 from global;
+    composes: period;
+    height: 20em;
+    line-height: 20em;
+    top: 22.5em;
+    background-color: yellow;
+}
+.xaHover{
+    composes: xa hover;
+}
+.text{
+    position: absolute;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    height: 2em;
+    z-index: 3;
+}
+.bandText{
+    composes: col-3 offset-2 from global;
+    composes: text;
+    top: 26.5em;
+}
+.ticketText{
+    composes: col-3 offset-4 from global;
+    composes: text;
+    top: 11em;
+}
+.cateringAText{
+    composes:col-3 offset-8 from global;
+    composes: text;
+    top: 10.5em;
+}
+.cateringBText{
+    composes: col-3 offset-8 from global;
+    composes: text;
+    top: 20.5em;
+}
+.xaText{
+    composes: col-3 offset-6 from global;
+    composes: text;
+    top: 32.5em;
+}

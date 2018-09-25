@@ -19,7 +19,6 @@ export class About extends React.Component{
 
                 <AboutTop/>
 
-
                 <div className={styles.change}>
                     I am a <font color="red">Friend and Family Member</font>
                 </div>
