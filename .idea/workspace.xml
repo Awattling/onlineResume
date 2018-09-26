@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a2a4155-1a26-4492-8fcd-710b23fc2583" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/resume/src/components/Construction.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resume/src/css/construction.css" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/resume/src/components/Contact.js" afterPath="$PROJECT_DIR$/resume/src/components/Contact.js" />
       <change beforePath="$PROJECT_DIR$/resume/src/components/Experience.js" afterPath="$PROJECT_DIR$/resume/src/components/Experience.js" />
-      <change beforePath="$PROJECT_DIR$/resume/src/components/Modal.js" afterPath="$PROJECT_DIR$/resume/src/components/Modal.js" />
-      <change beforePath="$PROJECT_DIR$/resume/src/components/Projects.js" afterPath="$PROJECT_DIR$/resume/src/components/Projects.js" />
-      <change beforePath="$PROJECT_DIR$/resume/src/components/Skills.js" afterPath="$PROJECT_DIR$/resume/src/components/Skills.js" />
       <change beforePath="$PROJECT_DIR$/resume/src/css/Experience.css" afterPath="$PROJECT_DIR$/resume/src/css/Experience.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,8 +20,8 @@
       <file leaf-file-name="Experience.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/src/components/Experience.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="102" column="26" lean-forward="false" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+            <state relative-caret-position="935">
+              <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -40,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/resume/src/components/Projects.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -52,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/resume/src/components/Contact.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -63,28 +56,28 @@
       <file leaf-file-name="About.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/src/css/About.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="97" selection-end-column="1" />
+            <state relative-caret-position="913">
+              <caret line="74" column="28" lean-forward="true" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Experience.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Experience.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume/src/css/Experience.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+            <state relative-caret-position="1768">
+              <caret line="104" column="40" lean-forward="true" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="About.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="About.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/src/components/About.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="37" column="22" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="37" selection-end-column="22" />
+            <state relative-caret-position="544">
+              <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -151,8 +144,8 @@
         <option value="$PROJECT_DIR$/resume/src/components/Skills.js" />
         <option value="$PROJECT_DIR$/resume/src/components/Projects.js" />
         <option value="$PROJECT_DIR$/resume/src/components/Contact.js" />
-        <option value="$PROJECT_DIR$/resume/src/components/Experience.js" />
         <option value="$PROJECT_DIR$/resume/src/css/Experience.css" />
+        <option value="$PROJECT_DIR$/resume/src/components/Experience.js" />
       </list>
     </option>
   </component>
@@ -297,12 +290,12 @@
       <workItem from="1537735848160" duration="13304000" />
       <workItem from="1537803724288" duration="19642000" />
       <workItem from="1537920197563" duration="10118000" />
-      <workItem from="1537946849986" duration="901000" />
+      <workItem from="1537946849986" duration="5543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131985000" />
+    <option name="totallyTimeSpent" value="136627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -580,7 +573,7 @@
         <state relative-caret-position="442">
           <caret line="31" column="1" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -606,7 +599,7 @@
         <state relative-caret-position="34">
           <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -616,7 +609,7 @@
         <state relative-caret-position="408">
           <caret line="24" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -626,7 +619,7 @@
         <state relative-caret-position="136">
           <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -639,26 +632,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/About.js">
+    <entry file="file://$PROJECT_DIR$/resume/src/components/Experience.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="37" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/css/About.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="97" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/Contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="935">
+          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -668,27 +645,43 @@
     <entry file="file://$PROJECT_DIR$/resume/src/components/Projects.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/Experience.js">
+    <entry file="file://$PROJECT_DIR$/resume/src/components/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="102" column="26" lean-forward="false" selection-start-line="102" selection-start-column="26" selection-end-line="102" selection-end-column="26" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/css/About.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="913">
+          <caret line="74" column="28" lean-forward="true" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/src/css/Experience.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+        <state relative-caret-position="1768">
+          <caret line="104" column="40" lean-forward="true" selection-start-line="104" selection-start-column="40" selection-end-line="104" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
           <folding />
         </state>
       </provider>

@@ -24,8 +24,8 @@
 }
 .period {
     position: absolute;
-    border-radius: 3em 1em;
-    left: 3em;
+    border-radius: 3em 0;
+    left: 2em;
     opacity: 0.5;
     z-index: 1;
 }
@@ -55,8 +55,7 @@
 .cateringA{
     composes: col-3 offset-8 from global;
     composes: period;
-    height: 3em;
-    line-height: 3em;
+    height: 5em;
     top: 10em;
     background-color: brown
 }
@@ -88,8 +87,9 @@
     text-align: center;
     color: black;
     height: 2em;
-    left: 3em;
+    left: 2em;
     z-index: 3;
+    padding: 0;
 }
 .bandText{
     composes: col-3 offset-2 from global;
@@ -104,12 +104,12 @@
 .cateringAText{
     composes:col-3 offset-8 from global;
     composes: text;
-    top: 10.5em;
+    top: 11.5em;
 }
 .cateringBText{
     composes: col-3 offset-8 from global;
     composes: text;
-    top: 20.5em;
+    top: 21.5em;
 }
 .xaText{
     composes: col-3 offset-6 from global;
@@ -119,4 +119,9 @@
 .modalMain{
     margin-top: 15em;
     color: black;
+}
+h2{
+    font-size: 2em;
+    color: white;
+
 }
