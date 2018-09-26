@@ -1,6 +1,8 @@
 .wrapper{
     composes: col-12 col-md-10 offset-md-1 from global;
-    background-color: lightgrey;
+    background-color: black;
+    color: white;
+    border: darkorange 3px solid;
     display: flex;
     padding-top: 3em;
     position: relative;
@@ -111,4 +113,8 @@
     composes: col-3 offset-6 from global;
     composes: text;
     top: 32.5em;
+}
+.modalMain{
+    margin-top: 15em;
+    color: black;
 }

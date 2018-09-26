@@ -1,0 +1,16 @@
+.modalMain{
+    margin-top: 15em;
+}
+.header{
+    composes: modal-header from global;
+    color: black;
+}
+.modalBody{
+    composes: modal-body from global;
+    color: black;
+    text-align: center;
+}
+.footer{
+    composes: modal-footer from global;
+    color: black;
+}

@@ -2,7 +2,8 @@
     composes: col-12 col-md-10 offset-md-1 from global;
     border-left: darkorange solid 3px;
     border-right: darkorange solid 3px;
-    background-color: lightslategrey;
+    background-color: black;
+    color: white;
     z-index: -1;
     padding: 0;
 }
@@ -33,6 +34,7 @@
     padding-top: 0.5em;
     padding-bottom: 0.5em;
     margin: 0;
+    margin-bottom: 2em;
     text-align: center;
     font-size: 2em;
     color: white;
@@ -89,7 +91,8 @@
 .footer{
     text-align: center;
     vertical-align: bottom;
-    background-color: black;
-    color: white;
+    background-color: darkorange;
+    font-weight: bolder;
+    color: black;
     height: 4em;
 }
