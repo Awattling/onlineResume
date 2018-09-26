@@ -25,6 +25,7 @@
 .period {
     position: absolute;
     border-radius: 3em 1em;
+    left: 3em;
     opacity: 0.5;
     z-index: 1;
 }
@@ -87,6 +88,7 @@
     text-align: center;
     color: black;
     height: 2em;
+    left: 3em;
     z-index: 3;
 }
 .bandText{

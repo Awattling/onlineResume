@@ -26,7 +26,7 @@ export class ModalComp extends React.Component{
                 "two world titles for marching showbands in Japan – 2013 and Brazil – 2014. Was " +
                 "constantly challenged to work on achieving higher degrees of musicianship and " +
                 "professionalism.  Requiring high attention to detail, advanced team work and time " +
-                "management skills.  During later years was in position of leadership within the group " +
+                "management skills.  During later years was in position of leadership within the group. I helped in " +
                 "setting the example for future generations, solving problems, communicating with band" +
                 " directors and helping ensure the efficient functioning of a team.";
             footerText = "September 2009 - August 2017"

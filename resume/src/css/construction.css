@@ -1,0 +1,10 @@
+.wrapper{
+    composes: col-12 col-md-10 offset-md-1 from global;
+    background-color: black;
+    color: white;
+    border: darkorange 3px solid;
+    display: flex;
+    padding-top: 3em;
+    min-height: 40em;
+    text-align: center;
+}

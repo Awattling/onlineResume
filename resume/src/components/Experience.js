@@ -131,6 +131,7 @@ export class Experience extends React.Component{
                     </div>
                 </div>
                 <ModalComp company={this.state.company} visible={this.state.visible} hideModal={this.hideModal.bind(this)}/>
+
             </div>
         );
     }

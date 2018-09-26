@@ -1,10 +1,10 @@
 import React from "react";
-
+import {Construction} from "./Construction";
 export class Contact extends React.Component{
     render(){
         return(
             <div>
-                <h1>Contact under construction</h1>
+                <Construction/>
             </div>
         );
     }
