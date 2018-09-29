@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a2a4155-1a26-4492-8fcd-710b23fc2583" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/resume/src/css/Skills.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resume/src/components/Resume.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resume/src/css/Contact.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/resume/src/media/resume.pdf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/resume/src/components/Nav.js" afterPath="$PROJECT_DIR$/resume/src/components/Nav.js" />
-      <change beforePath="$PROJECT_DIR$/resume/src/components/Skills.js" afterPath="$PROJECT_DIR$/resume/src/components/Skills.js" />
-      <change beforePath="$PROJECT_DIR$/resume/src/css/About.css" afterPath="$PROJECT_DIR$/resume/src/css/About.css" />
+      <change beforePath="$PROJECT_DIR$/resume/package-lock.json" afterPath="$PROJECT_DIR$/resume/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/resume/package.json" afterPath="$PROJECT_DIR$/resume/package.json" />
+      <change beforePath="$PROJECT_DIR$/resume/src/Main.js" afterPath="$PROJECT_DIR$/resume/src/Main.js" />
+      <change beforePath="$PROJECT_DIR$/resume/src/components/Contact.js" afterPath="$PROJECT_DIR$/resume/src/components/Contact.js" />
       <change beforePath="$PROJECT_DIR$/resume/src/css/Experience.css" afterPath="$PROJECT_DIR$/resume/src/css/Experience.css" />
-      <change beforePath="$PROJECT_DIR$/resume/src/css/Header.css" afterPath="$PROJECT_DIR$/resume/src/css/Header.css" />
-      <change beforePath="$PROJECT_DIR$/resume/src/css/Nav.css" afterPath="$PROJECT_DIR$/resume/src/css/Nav.css" />
-      <change beforePath="$PROJECT_DIR$/resume/src/css/index.css" afterPath="$PROJECT_DIR$/resume/src/css/index.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,21 +24,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Skills.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/src/css/Skills.css">
+      <file leaf-file-name="About.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume/src/components/About.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="408">
+              <caret line="28" column="72" lean-forward="true" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Skills.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/src/components/Skills.js">
+      <file leaf-file-name="AboutMiddle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume/src/components/AboutMiddle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="85" column="152" lean-forward="true" selection-start-line="85" selection-start-column="152" selection-end-line="85" selection-end-column="152" />
+            <state relative-caret-position="442">
+              <caret line="31" column="1" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume/src/components/Nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutMiddle2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume/src/components/AboutMiddle2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="84" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutTop.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume/src/components/AboutTop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -46,32 +76,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resume/src/components/Nav.js">
+      <file leaf-file-name="Resume.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume/src/components/Resume.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Nav.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/src/css/Nav.css">
+      <file leaf-file-name="Contact.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resume/src/components/Contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resume/src/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding />
+            <state relative-caret-position="374">
+              <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,8 +104,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -106,7 +128,6 @@
         <option value="$PROJECT_DIR$/resume/src/Home.js" />
         <option value="$PROJECT_DIR$/resume/src/index.js" />
         <option value="$PROJECT_DIR$/resume/src/About.js" />
-        <option value="$PROJECT_DIR$/resume/src/Main.js" />
         <option value="$PROJECT_DIR$/resume/src/components/orangeGear.js" />
         <option value="$PROJECT_DIR$/resume/src/css/navTab.css" />
         <option value="$PROJECT_DIR$/resume/src/components/navTab.js" />
@@ -130,16 +151,19 @@
         <option value="$PROJECT_DIR$/resume/src/components/Construction.js" />
         <option value="$PROJECT_DIR$/resume/src/css/construction.css" />
         <option value="$PROJECT_DIR$/resume/src/components/Projects.js" />
-        <option value="$PROJECT_DIR$/resume/src/components/Contact.js" />
         <option value="$PROJECT_DIR$/resume/src/components/Experience.js" />
-        <option value="$PROJECT_DIR$/resume/src/css/Experience.css" />
         <option value="$PROJECT_DIR$/resume/src/css/Header.css" />
         <option value="$PROJECT_DIR$/resume/src/css/Nav.css" />
         <option value="$PROJECT_DIR$/resume/src/css/About.css" />
         <option value="$PROJECT_DIR$/resume/src/css/Skills.css" />
-        <option value="$PROJECT_DIR$/resume/src/css/index.css" />
         <option value="$PROJECT_DIR$/resume/src/components/Skills.js" />
         <option value="$PROJECT_DIR$/resume/src/components/Nav.js" />
+        <option value="$PROJECT_DIR$/resume/src/css/Experience.css" />
+        <option value="$PROJECT_DIR$/resume/src/css/index.css" />
+        <option value="$PROJECT_DIR$/resume/src/css/Contact.css" />
+        <option value="$PROJECT_DIR$/resume/src/components/Resume.js" />
+        <option value="$PROJECT_DIR$/resume/src/Main.js" />
+        <option value="$PROJECT_DIR$/resume/src/components/Contact.js" />
       </list>
     </option>
   </component>
@@ -156,7 +180,7 @@
     <handled-path value="$PROJECT_DIR$/resume/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-6" />
     <option name="width" value="974" />
     <option name="height" value="527" />
   </component>
@@ -194,12 +218,6 @@
               <item name="onlineResume" type="b2602c69:ProjectViewProjectNode" />
               <item name="onlineResume" type="462c0819:PsiDirectoryNode" />
               <item name="resume" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineResume" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineResume" type="462c0819:PsiDirectoryNode" />
-              <item name="resume" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -208,13 +226,6 @@
               <item name="resume" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="onlineResume" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onlineResume" type="462c0819:PsiDirectoryNode" />
-              <item name="resume" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="onlineResume" type="b2602c69:ProjectViewProjectNode" />
@@ -238,16 +249,17 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Portfolio\onlineResume\resume\src" />
-      <recent name="D:\Portfolio\onlineResume\resume\src\components" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Portfolio\onlineResume\resume\src\media" />
       <recent name="D:\Portfolio\onlineResume\resume\src\components" />
       <recent name="D:\Portfolio\onlineResume\resume\src\css" />
       <recent name="D:\Portfolio\onlineResume\resume\src\graphics" />
       <recent name="D:\Portfolio\onlineResume\resume\src\javascript" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Portfolio\onlineResume\resume\src\media" />
+      <recent name="D:\Portfolio\onlineResume\resume\src" />
+      <recent name="D:\Portfolio\onlineResume\resume\src\components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -286,12 +298,12 @@
       <workItem from="1537920197563" duration="10118000" />
       <workItem from="1537946849986" duration="15345000" />
       <workItem from="1538118901147" duration="12000000" />
-      <workItem from="1538204952199" duration="8423000" />
+      <workItem from="1538204952199" duration="14958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166852000" />
+    <option name="totallyTimeSpent" value="173387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -324,24 +336,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resume/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/src/registerServiceWorker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -366,20 +366,6 @@
     <entry file="file://$PROJECT_DIR$/resume/src/About.html" />
     <entry file="file://$PROJECT_DIR$/resume/src/Root.js" />
     <entry file="file://$PROJECT_DIR$/resume/src/App.test.js" />
-    <entry file="file://$PROJECT_DIR$/resume/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/src/components/orangeGear.js" />
     <entry file="uml://JavaScript-modules-diagram/D:/Portfolio/onlineResume/resume/src/components/Header.js">
       <provider selected="true" editor-type-id="UmlEditorProvider">
@@ -445,13 +431,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -501,13 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/AboutMiddle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/src/css/construction.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -519,13 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/AboutTop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -550,62 +515,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/Contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/AboutMiddle2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="84" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/css/Experience.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/Experience.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="15" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="19" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/components/About.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resume/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/css/About.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -621,22 +534,6 @@
     <entry file="file://$PROJECT_DIR$/resume/src/media/JavaScript.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/css/Skills.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resume/src/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/src/components/Skills.js">
@@ -657,11 +554,145 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/Experience.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="94" column="30" lean-forward="true" selection-start-line="94" selection-start-column="30" selection-end-line="94" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/css/Experience.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/css/Skills.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/css/About.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/css/Contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="28" column="72" lean-forward="true" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/AboutMiddle2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="84" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/AboutMiddle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/Resume.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/AboutTop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resume/src/components/Nav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume/src/components/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

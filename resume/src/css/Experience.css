@@ -11,6 +11,7 @@
 }
 .container{
     composes: container from global;
+    margin: 0;
 }
 .containerOverlay{
     composes: container;

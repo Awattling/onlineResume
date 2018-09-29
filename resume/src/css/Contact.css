@@ -1,0 +1,20 @@
+.wrapper{
+    composes: col-12 col-md-10 offset-md-1 from global;
+    background-color: black;
+    color: white;
+    border-left: darkorange 3px solid;
+    border-right: darkorange 3px solid;
+    border-bottom: darkorange 3px solid;
+    padding: 1em;
+    min-height: 20em;
+}
+.needWork{
+    text-align: center;
+    font-size: 1.5em;
+}
+.if{
+    padding: 3em;
+    text-align: center;
+    font-size: 1.5em;
+    color: darkorange;
+}
