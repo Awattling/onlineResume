@@ -3,6 +3,7 @@
     border-left: darkorange solid 3px;
     border-right: darkorange solid 3px;
     background-color: black;
+    background-size: 100%;
     color: white;
     z-index: -1;
     padding: 0;
@@ -41,7 +42,6 @@
     z-index: 2;
     display: inline-block;
     border-bottom: darkorange 3px solid;
-    border-top: darkorange 3px solid;
 }
 .text{
     composes: col-8 offset-2 from global;

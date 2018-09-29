@@ -16,9 +16,6 @@ export class Nav extends React.Component{
                     <NavLink to={'/skills'} className={"nav-link"} activeClassName="active"><NavTab text={"Skills"}/></NavLink>
                 </div>
                 <div className={styles.tab}>
-                    <NavLink to={'/projects'} className={"nav-link"} activeClassName="active"><NavTab text={"Projects"}/></NavLink>
-                </div>
-                <div className={styles.tab}>
                     <NavLink to={'/contact'} className={"nav-link"} activeClassName="active"><NavTab text={"Contact"}/></NavLink>
                 </div>
             </div>

@@ -2,7 +2,9 @@
     composes: col-12 col-md-10 offset-md-1 from global;
     background-color: black;
     color: white;
-    border: darkorange 3px solid;
+    border-right: darkorange 3px solid;
+    border-left: darkorange 3px solid;
+    border-bottom: darkorange 3px solid;
     display: flex;
     padding-top: 3em;
     position: relative;
@@ -36,9 +38,9 @@
 .band{
     composes: col-3 offset-2 from global;
     composes: period;
-    height: 53em;
+    height: 43em;
+    top: 10em;
     background-color: red;
-    color: black;
 }
 .bandHover{
     composes: band hover;
@@ -76,16 +78,16 @@
     height: 20em;
     line-height: 20em;
     top: 22.5em;
-    background-color: yellow;
+    background-color: darkorange;
 }
 .xaHover{
     composes: xa hover;
 }
 .text{
     position: absolute;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
-    color: black;
+    color: white;
     height: 2em;
     left: 2em;
     z-index: 3;
