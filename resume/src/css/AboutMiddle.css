@@ -47,3 +47,6 @@
 .m2Right{
     composes: col-md-3 d-none d-md-block from global;
 }
+.container{
+    composes: container from global;
+}
