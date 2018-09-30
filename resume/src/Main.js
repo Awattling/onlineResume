@@ -5,7 +5,6 @@ import {About} from './components/About';
 import {Skills} from './components/Skills';
 import {Projects} from './components/Projects';
 import {Contact} from './components/Contact';
-import {Resume} from './components/Resume';
 
 export class Main extends React.Component{
     render(){
@@ -17,7 +16,6 @@ export class Main extends React.Component{
             <Route path='/experience' component={Experience}/>
             <Route path='/projects' component={Projects}/>
             <Route path='/contact' component={Contact}/>
-            <Route path='/resume' component={Resume}/>
         </Switch>
         );
     }

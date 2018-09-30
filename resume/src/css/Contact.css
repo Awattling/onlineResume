@@ -16,5 +16,21 @@
     padding: 3em;
     text-align: center;
     font-size: 1.5em;
+    color: red;
+}
+.link{
     color: darkorange;
+}
+.link:hover{
+    color: white;
+}
+.resume{
+    text-align: center;
+    font-size: 2em;
+    color: purple;
+}
+.git{
+    padding: 2em;
+    font-size: 1.5em;
+    text-align: center;
 }
